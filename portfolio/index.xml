@@ -56,5 +56,58 @@
       <description>&lt;p&gt;Tutorial para recordar paso a paso como instalar Hugo.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>DEMO SOFTWARE</title>
+      <link>/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work8/</guid>
+      <description>Software elegido: NEORT
+ NEORT - Plataforma digital para crear arte digital a traves de coding.    *Ejemplo de uso 1 - Compartir y gestionar obras de arte en distintos formatos (video, GLSL y Javascript).
+  *Ejemplo de uso 2 - Vender o comprar conocimiento y habilidades disponibles en la página.*
+ -Mostrar a través de imágenes el proceso desde que entras a la página a el inicio de seción.</description>
+    </item>
+    
+    <item>
+      <title>EL FUTURO DEL DELIVERY / PROTOTIPO</title>
+      <link>/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work11/</guid>
+      <description>Tema: Delivery del futuro.
+SISTEMA      </description>
+    </item>
+    
+    <item>
+      <title>FUSION 360</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>EJERCICIO 1
+  Primero importar el archivo del ejercicio 1.     Luego revisar la capa Analysis. INSPECT - SECTION ANALYSIS Con ANALYSIS se puede generar un corte en base a un plano en el modelo principal.     Vamos al plano 1 dentro de la capa de Analysis, encender la capa de Sketches y apagar la capa Construction. Luego comenzamos a acercar los puntos a la geometría de la manera más precisa.</description>
+    </item>
+    
+    <item>
+      <title>INVESTIGACIÓN DELIVERY</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>Tema: Delivery del futuro.
+  El delivery en tiempos de pandemia se ve altamente afectado, ya que al estar las personas en sus casas en cuarentenas, el salir a comprar se hace menos frecuente o imposible. El cierre de los centros comerciales genera una mayor venta online. Las entregas de los productos comprados online deben adaptarse a la contingencia. En este sentido consideramos algunos puntos y preguntas importantes sobre esta adaptación del delivery.</description>
+    </item>
+    
+    <item>
+      <title>MOVILIDAD FUTURO</title>
+      <link>/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work7/</guid>
+      <description>En base a referentes, se comienza a plantear un tema específico para desarrollar como proyecto pensando la movilidad del futuro en base a las alteraciones que ha generado el COVID19 a nuestro modo de vida contemporánea.
+Tema: Delivery en tiempo de pandemia.
+  El delivery en tiempo de pandemia debe tomar varias restricciones, o más bien varios puntos deben readecuarse para ser ejecutado de forma responsable y efectiva. Teniendo en cuenta que los dos principales servicios de delivery son el de productos y comida.</description>
+    </item>
+    
   </channel>
 </rss>
