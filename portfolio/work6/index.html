@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="/css/owl.theme.css">
 
 
-  <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+  <link href="/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
 
  
 
@@ -105,34 +105,50 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>BITÁCORA INSTALACIÓN HUGO</h1>
-         <p>Tutorial para recordar paso a paso como instalar Hugo.</p>
-<h2 id="como-instalar-hugo-en-mac">COMO INSTALAR HUGO EN MAC</h2>
+         <h4 id="como-instalar-hugo-en-mac">COMO INSTALAR HUGO EN MAC</h4>
+<ul>
+<li>Primero debes crear una cuenta en GitHub. Además debes descargar Hugo, Visual Studio y Homebrew.</li>
+<li>Luego debes abrir el Terminal e instalar Homebrew dentro de éste. Durante este proceso te pediran la clave del equipo.</li>
+<li>Seguido de esto, debes escribir los siguientes códigos dentro del terminal.</li>
+</ul>
 <blockquote>
-<p>Primero debes crear una cuenta en GitHub. Además debes descargar Hugo, Visual Studio y Homebrew. Luego debes abrir el Terminal e instalar Homebrew dentro de éste. Durante este proceso te pediran la clave del equipo. Seguido de esto, debes escribir los siguientes códigos dentro del terminal.</p>
-</blockquote>
 <ol>
 <li>cd documents (para ir a la carpeta de documentos)</li>
 <li>cd hugo (para ir a la carpeta hugo)</li>
 <li>hugo new site &hellip;.. (crear un nuevo sitio, en los &hellip;.. debe ir el nombre del sitio )</li>
 </ol>
-<blockquote>
-<p>Luego de ingresar los códigos mencionados en el terminal, debes descargar un tema de la página themes.gohugo.io/, y seguir los siguientes pasos.</p>
 </blockquote>
+<ul>
+<li>Luego de ingresar los códigos mencionados en el terminal, debes descargar un tema de la página themes.gohugo.io/, y seguir los siguientes pasos.</li>
+</ul>
+<blockquote>
 <ol>
 <li>Descomprimir la carpeta del tema descargado.</li>
 <li>Eliminar del nombre de la carpeta &ldquo;-master&rdquo;.</li>
 <li>Copiar y pegar la carpeta del tema en la carpeta THEMES que esta en el interior de la carpeta de la página web.</li>
 <li>Luego de la carpeta del tema debes abrir la carpeta EXAMPLESITE y cortar y pegar todos los archivos en el interior de la carpeta del tema descargado.</li>
 </ol>
-<blockquote>
-<p>Luego de seguir estos pasos, debes volver al terminal e ingresar el codigo:</p>
 </blockquote>
+<ul>
+<li>Luego de seguir estos pasos, debes volver al terminal e ingresar el codigo:</li>
+</ul>
+<blockquote>
 <ol>
-<li>cd &hellip;.. (en los &hellip;. va el nombre de la carpeta de tu website)</li>
+<li>cd documents (la carperta donde se encuentra HUGO)</li>
+<li>cd hugo</li>
+<li>cd website (website es en mi caso el nombre de mi carpeta del sitio)</li>
 <li>hugo server</li>
 </ol>
+</blockquote>
+<ul>
+<li>Luego de dar el hugo server, aparecera una lista de especificaciones del sitio creado (que es un local host), el cual no esta conectado a la red.</li>
+</ul>
+<p><img src="/img/HUGO2.jpg" alt="plano1"></p>
+<ul>
+<li>En la parte de abajo se encuentra el link para abrir en el servidor.</li>
+</ul>
 <blockquote>
-<p>Finalmente cuando des el comando hugo server, aparecera un link en la parte de abajo.</p>
+<p>http://localhost:1313/</p>
 </blockquote>
          
       </div>

@@ -12,60 +12,13 @@
     
     
     <item>
-      <title>PLANO DE LUZ_1</title>
-      <link>/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/portfolio/work2/</guid>
-      <description>&lt;p&gt;Plano de luz realizado a través de una luz, un objeto fabricado de papel mantequilla y una pantalla realizada con el mismo material.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PLANO DE LUZ_2</title>
-      <link>/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>/portfolio/work3/</guid>
-      <description>&lt;p&gt;Plano de luz realizado a través de una luz, un objeto fabricado de papel mantequilla y una pantalla realizada con el mismo material.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PLANO DE LUZ_3</title>
-      <link>/portfolio/work4/</link>
+      <title>DRONE</title>
+      <link>/portfolio/work12/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>/portfolio/work4/</guid>
-      <description>&lt;p&gt;Plano de luz realizado a través de una luz, un objeto fabricado de papel mantequilla y una pantalla realizada con el mismo material.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>VOLUMEN DE LUZ_1</title>
-      <link>/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>/portfolio/work5/</guid>
-      <description>&lt;p&gt;Volumen de luz realizado a través de un un objeto fabricado de papel mantequilla y una luz.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>BITÁCORA INSTALACIÓN HUGO</title>
-      <link>/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>/portfolio/work6/</guid>
-      <description>&lt;p&gt;Tutorial para recordar paso a paso como instalar Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>DEMO SOFTWARE</title>
-      <link>/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/portfolio/work8/</guid>
-      <description>Software elegido: NEORT
- NEORT - Plataforma digital para crear arte digital a traves de coding.    *Ejemplo de uso 1 - Compartir y gestionar obras de arte en distintos formatos (video, GLSL y Javascript).
-  *Ejemplo de uso 2 - Vender o comprar conocimiento y habilidades disponibles en la página.*
- -Mostrar a través de imágenes el proceso desde que entras a la página a el inicio de seción.</description>
+      <guid>/portfolio/work12/</guid>
+      <description>Renderizado de objeto en Keyshot creado en Fusion 360.
+Tutorial de como exportar un objeto de Fusion 360 a Keyshot y renderizado.   Lo primero que tenemos que hacer es abrir el archivo de drone en Fusion. En la capa Body solo dejamos encendida la capa Body2.     Para crear la carcasa o estructura exterior del drone, debemos primero crear una nueva forma en CREATE FORM. Generamos un plano desde el punto de origen.</description>
     </item>
     
     <item>
@@ -75,17 +28,8 @@
       
       <guid>/portfolio/work11/</guid>
       <description>Tema: Delivery del futuro.
-SISTEMA      </description>
-    </item>
-    
-    <item>
-      <title>FUSION 360</title>
-      <link>/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/portfolio/work9/</guid>
-      <description>EJERCICIO 1
-  Primero importar el archivo del ejercicio 1.     Luego revisar la capa Analysis. INSPECT - SECTION ANALYSIS Con ANALYSIS se puede generar un corte en base a un plano en el modelo principal.     Vamos al plano 1 dentro de la capa de Analysis, encender la capa de Sketches y apagar la capa Construction. Luego comenzamos a acercar los puntos a la geometría de la manera más precisa.</description>
+PROBLEMA PROTOTIPO *Collage referentes
+ Prototipo de robot de reparto. Ruedas de robot Starship que se acomodan al lugar por donde transita, las cuales le permiten por ejemplo subir veredas y lograr pasar por distintos tipos de terrenos con los que se puede encontrar en la calle. Parte superior robot FedEx, el cual cuenta con unas puertas que se abren solo cuando llegan al destinto y la persona que lo recibe activa abrirlo desde la app.</description>
     </item>
     
     <item>
@@ -99,6 +43,27 @@ SISTEMA      </description>
     </item>
     
     <item>
+      <title>FUSION 360</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>EJERCICIO 1
+  Primero importar el archivo del ejercicio 1.     Luego revisar la capa Analysis. INSPECT - SECTION ANALYSIS Con ANALYSIS se puede generar un corte en base a un plano en el modelo principal.     Vamos al plano 1 dentro de la capa de Analysis, encender la capa de Sketches y apagar la capa Construction. Luego comenzamos a acercar los puntos a la geometría de la manera más precisa.</description>
+    </item>
+    
+    <item>
+      <title>DEMO SOFTWARE</title>
+      <link>/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work8/</guid>
+      <description>Software: HEAVYM  HEAVYM - Es un software de mapeo de proyección fácil, con efectos listos para usar. Está disponible tanto para mac como windows.  Ejemplo de uso 1 - Compartir y gestionar obras de arte en distintos formatos (video, GLSL y Javascript).
+Ejemplo de uso 2 - Vender o comprar conocimiento y habilidades disponibles en la página.*
+TUTORIAL DE USO BÁSICO DE HEAVYM   Lo primero que debes hacer es elegir una superficie sobre la cual quieres proyectar.</description>
+    </item>
+    
+    <item>
       <title>MOVILIDAD FUTURO</title>
       <link>/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
@@ -107,6 +72,51 @@ SISTEMA      </description>
       <description>En base a referentes, se comienza a plantear un tema específico para desarrollar como proyecto pensando la movilidad del futuro en base a las alteraciones que ha generado el COVID19 a nuestro modo de vida contemporánea.
 Tema: Delivery en tiempo de pandemia.
   El delivery en tiempo de pandemia debe tomar varias restricciones, o más bien varios puntos deben readecuarse para ser ejecutado de forma responsable y efectiva. Teniendo en cuenta que los dos principales servicios de delivery son el de productos y comida.</description>
+    </item>
+    
+    <item>
+      <title>BITÁCORA INSTALACIÓN HUGO</title>
+      <link>/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VOLUMEN DE LUZ</title>
+      <link>/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/work5/</guid>
+      <description>&lt;p&gt;Volumen de luz realizado a través de un un objeto fabricado de papel mantequilla y una luz.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PLANO DE LUZ_3</title>
+      <link>/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work4/</guid>
+      <description>&lt;p&gt;Plano de luz realizado a través de una luz, un objeto fabricado de papel mantequilla y una pantalla realizada con el mismo material.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PLANO DE LUZ_2</title>
+      <link>/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/work3/</guid>
+      <description>&lt;p&gt;Plano de luz realizado a través de una luz, un objeto fabricado de papel mantequilla y una pantalla realizada con el mismo material.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PLANO DE LUZ_1</title>
+      <link>/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/work2/</guid>
+      <description>&lt;p&gt;Plano de luz realizado a través de una luz, un objeto fabricado de papel mantequilla y una pantalla realizada con el mismo material.&lt;/p&gt;</description>
     </item>
     
   </channel>
