@@ -12,39 +12,21 @@
     
     
     <item>
-      <title>Instalar Tema</title>
-      <link>https://mariaignaciaah.github.io/docs/instalar-tema/</link>
+      <title>Abejas en Chile</title>
+      <link>https://mariaignaciaah.github.io/docs/abejas.md/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+      <guid>https://mariaignaciaah.github.io/docs/abejas.md/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
     <item>
-      <title>Configuración</title>
-      <link>https://mariaignaciaah.github.io/docs/configuracion/</link>
+      <title>Encargo 1 / Fusion 360</title>
+      <link>https://mariaignaciaah.github.io/docs/fusion.md-copy/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/configuracion/</guid>
-      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://mariaignaciaah.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://mariaignaciaah.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://mariaignaciaah.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://mariaignaciaah.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <guid>https://mariaignaciaah.github.io/docs/fusion.md-copy/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
     <item>
@@ -53,15 +35,6 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://mariaignaciaah.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
-    </item>
-    
-    <item>
-      <title>Abejas en Chile</title>
-      <link>https://mariaignaciaah.github.io/docs/abejas.md/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://mariaignaciaah.github.io/docs/abejas.md/</guid>
       <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
