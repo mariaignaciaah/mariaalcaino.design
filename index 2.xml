@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller Espacio y Ciudad on Maria Ignacia Alcaino</title>
+    <link>https://mariaignaciaah.github.io/</link>
+    <description>Recent content in Taller Espacio y Ciudad on Maria Ignacia Alcaino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
+    
+	<atom:link href="https://mariaignaciaah.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cultivo ecosistémico de algas</title>
+      <link>https://mariaignaciaah.github.io/docs/algas.md/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mariaignaciaah.github.io/docs/algas.md/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>Sketch Paramétrico / Fusion 360</title>
+      <link>https://mariaignaciaah.github.io/docs/fusion.md-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mariaignaciaah.github.io/docs/fusion.md-copy/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>Modelado Superficies / Fusion 360</title>
+      <link>https://mariaignaciaah.github.io/docs/fusion2.md-/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mariaignaciaah.github.io/docs/fusion2.md-/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>Creación Molde / Fusion 360</title>
+      <link>https://mariaignaciaah.github.io/docs/fusion3.md/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mariaignaciaah.github.io/docs/fusion3.md/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>Diseño Generativo / Fusion 360</title>
+      <link>https://mariaignaciaah.github.io/docs/fusion4.md/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mariaignaciaah.github.io/docs/fusion4.md/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>Objetivos del Curso</title>
+      <link>https://mariaignaciaah.github.io/docs/objetivos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mariaignaciaah.github.io/docs/objetivos/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+  </channel>
+</rss>
