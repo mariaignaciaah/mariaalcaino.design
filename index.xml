@@ -1,68 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Espacio y Ciudad on Maria Ignacia Alcaino</title>
-    <link>https://mariaignaciaah.github.io/</link>
-    <description>Recent content in Taller Espacio y Ciudad on Maria Ignacia Alcaino</description>
+    <title>María I Alcaíno</title>
+    <link>https://mariaalcaino.design/</link>
+    <description>Recent content on María I Alcaíno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="https://mariaignaciaah.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mariaalcaino.design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cultivo ecosistémico de algas</title>
-      <link>https://mariaignaciaah.github.io/docs/algas.md/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>REFUGIO i (Alcaíno &#43; Ortiz)</title>
+      <link>https://mariaalcaino.design/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/algas.md/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://mariaalcaino.design/portfolio/work9/</guid>
+      <description>Laguna Conguillío. Entre todos los lagos y lagunas que se encuentran en este parque nacional, este es el más grande. Desde aquí se pueden apreciar los volcanes Llaima y Sierra Nevada. Se originó como un estancamiento de aguas producido por las constantes erupciones del volcán Llaima, las aguas provenientes del deshielo del volcán Llaima y de la Sierra Nevada generaron con los años un lago de grandes proporciones, debido a que no tiene ríos torrentosos como afluentes, el lago se mantiene calmo y con aguas cristalinas que permiten observar el fondo y los troncos de los antiguos árboles que en su momento quedaron bajo las aguas.</description>
     </item>
     
     <item>
-      <title>Sketch Paramétrico / Fusion 360</title>
-      <link>https://mariaignaciaah.github.io/docs/fusion.md-copy/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>SOCIAL DISTANCING EXPERIMENT</title>
+      <link>https://mariaalcaino.design/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/fusion.md-copy/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://mariaalcaino.design/portfolio/work8/</guid>
+      <description>Experimento que nace con la finalidad de concientizar a las personas sobre la situación COVID-19 a nivel mundial, en donde es necesario ser precavidos y cuidarnos tanto a nosotros como a los demás para no exponernos a contagios y propagar aún más el virus; es por esto que decidimos crear una prenda de vestir que incluya un mensaje claro y conciso como lo es el “distanciamiento social”, de esta forma lo experimentamos con filamento termocrómico y filamento fotoluminiscente sobre el textil, para que sea visible a la luz del día y en la noche.</description>
     </item>
     
     <item>
-      <title>Modelado Superficies / Fusion 360</title>
-      <link>https://mariaignaciaah.github.io/docs/fusion2.md-/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>INTERVENCIÓN MUNICIPALIDAD LO BARNECHEA</title>
+      <link>https://mariaalcaino.design/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/fusion2.md-/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://mariaalcaino.design/portfolio/work7/</guid>
+      <description>Intervención ubicada en la Municipalidad de Lo Barnechea, Santiago Chile.
+Performance que explora acciones y situaciones particulares de conducta &amp;ldquo;restaurada&amp;rdquo; de los empaques de comida de un solo uso y sus caracteristicas en el marco de situaciones de la vida cotidiana en la municipalidad.
+   Design Team: María Ignacia Alcaíno, Magdalena Farías
+Tutors: Rodrigo Tisi, Felipe Veliz
+2019</description>
     </item>
     
     <item>
-      <title>Creación Molde / Fusion 360</title>
-      <link>https://mariaignaciaah.github.io/docs/fusion3.md/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>DRESSMART</title>
+      <link>https://mariaalcaino.design/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/fusion3.md/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://mariaalcaino.design/portfolio/work6/</guid>
+      <description>Contaminación de la industria textil
+La moda si incomoda y especialmente al planeta, ya que está dentro de las 3 industrias más contaminantes del mundo. La producción de la ropa que usamos se mantiene sobre las consecuencias sociales devastadoras en países como Bangladesh y China.
+Estrategia de diseño
+Reducir la acumulación de ropa y que los procesos de fabricación de las prendas sean transparentes para que así las personas puedan estar informadas y generar conciencia sobre la contaminación que genera la industria textil.</description>
     </item>
     
     <item>
-      <title>Diseño Generativo / Fusion 360</title>
-      <link>https://mariaignaciaah.github.io/docs/fusion4.md/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>NIME</title>
+      <link>https://mariaalcaino.design/portfolio/work6-01/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/fusion4.md/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://mariaalcaino.design/portfolio/work6-01/</guid>
+      <description>New Interfaces for Musical Expression Instalación que permite expresarse a través del juego, consiste en 7 llaves de agua, las cuales son 7 notas musicales distintas.
+Sonidos Transparentes La transparencia forma parte de nuestro día a día, pero no de manera literal, las redes sociales por ejemplo a causa de sus influencias han logrado que nuestra vida sea cada vez más expuesta y pública, permitiéndole a los demás saber casi todo de nosotros en cosa de segundos y con tan solo un click.</description>
     </item>
     
     <item>
-      <title>Objetivos del Curso</title>
-      <link>https://mariaignaciaah.github.io/docs/objetivos/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <title>SOUNDSNAIL</title>
+      <link>https://mariaalcaino.design/portfolio/work6-0/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://mariaignaciaah.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://mariaalcaino.design/portfolio/work6-0/</guid>
+      <description>Estructura formada por bloques de madera que permite una experiencia acústica en el centro. Su forma de caracol, permite que las personas entren por un pasillo curvo, para llegar al centro donde se encuentra el emisor del sonido.
+El proyecto esta basado en el uso de herramientas digitales, por lo que es construido por un robot KUKA, para así lograr una fabricación precisa y rápida.
+   Design Team: María Ignacia Alcaíno, Erich Westermeyer</description>
+    </item>
+    
+    <item>
+      <title>YUVIA</title>
+      <link>https://mariaalcaino.design/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://mariaalcaino.design/portfolio/work5/</guid>
+      <description>Yuvia es un recolector de aguas niebla fabricado con el alga Durvillaea Antarctica diseñado para recolectar agua en Alto Patache, ubicado en el Desierto de Atacama, y para cultivar vegetación en este lugar con grave escasez de agua. Este desierto es conocido por ser el más seco del mundo. Dentro de él, diferentes personas han vivido allí durante siglos sin ningún tipo de acceso al agua para sobrevivir, los indígenas se han dedicado a buscar diferentes soluciones para llevar a cabo su subsistencia.</description>
+    </item>
+    
+    <item>
+      <title>WOOD SCULPTURE</title>
+      <link>https://mariaalcaino.design/portfolio/work4-1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://mariaalcaino.design/portfolio/work4-1/</guid>
+      <description>Design Team: María Ignacia Alcaíno, Erich Westermeyer
+Tutor: Francisco Moure
+2018</description>
+    </item>
+    
+    <item>
+      <title>BARRIO 31, BUENOS AIRES</title>
+      <link>https://mariaalcaino.design/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://mariaalcaino.design/portfolio/work4/</guid>
+      <description>Vacíos Interiores / Escasez de Áreas Verdes Contexto - Problemática
+El barrio 31, visto desde un punto, puede ser una gran masa de casas, sin la posibilidad de tener un espacio destinado a áreas verdes. Esto esta dado ya que existe una escasez de espacio, tanto público como privado. Las casas están pegadas una a las otras, los habitantes de cada casa desarrollan las actividades del día a día a metros de los habitantes de las otras casas, pero a pesar de esto, no tienen lugares para reunirse, y desarrollar actividades en espacios donde puedan interactuar y logren satisfacer sus necesidades comunes, actuando como una comunidad.</description>
+    </item>
+    
+    <item>
+      <title>Vorolight</title>
+      <link>https://mariaalcaino.design/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://mariaalcaino.design/portfolio/work3/</guid>
+      <description>Soquete de cerámica diseñado en base a un estudio de forma geométrica en grasshopper. El molde se imprimió en 3D y fué utilizado para fabricar los moldes y contra-moldes de yeso para realizar el vaciado de cerámica.
+Design Team: María Ignacia Alcaíno, Erich Westermeyer.
+Tutor: Francisco Moure.
+2018</description>
+    </item>
+    
+    <item>
+      <title>Exploration between Space and Concrete</title>
+      <link>https://mariaalcaino.design/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://mariaalcaino.design/portfolio/work2/</guid>
+      <description>Experimenteción e investigación material del hormigón y su producción a través de la fabricación digital para encontrar nuevas oportunidades para el desarrollo de espacios.
+Propuestas de ensambles en hormigón modeladas digitalmente y posteriormente fabricadas por medio de moldes negativos de poliestireno expandido.
+Tutors: Sergio Araya, Tomás Folch.
+2017</description>
+    </item>
+    
+    <item>
+      <title>CIELO SUSPENDIDO</title>
+      <link>https://mariaalcaino.design/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://mariaalcaino.design/portfolio/work1/</guid>
+      <description>Pabellón basado en la repetición de figuras con tres tamaños de radios y diámetros distintos.
+Espacio de experiencia íntima y temporal entre la estructura y el transeúnte. El usuario al circular por la estructura se encuentra bajo la sensación de estar bajo una nube y pasa de un estado de tránsito a un estado de contemplación. De aquí nace el nombre &amp;ldquo;Cielo Suspendido&amp;rdquo;.
+Todas estas figuras estan basadas en una misma forma en diferentes escalas.</description>
     </item>
     
   </channel>
